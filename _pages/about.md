@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: " "
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Brief introduction
+About me
 ========
 
 I am a Ph.D student with [Institut Pascal](http://www.institutpascal.uca.fr/index.php/fr/).
