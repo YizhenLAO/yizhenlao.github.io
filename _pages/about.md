@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-A data-driven personal website
+Brief introduction
 ========
 
 I am a Ph.D student with [Institut Pascal](http://www.institutpascal.uca.fr/index.php/fr/).
