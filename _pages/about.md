@@ -23,7 +23,7 @@ News
 
 Publication  
 ========
-- <h3>A Robust Method for Strong Rolling Shutter Effects Correction Using Lines with Automatic Feature Selection</h3> <br />
+- <h4>A Robust Method for Strong Rolling Shutter Effects Correction Using Lines with Automatic Feature Selection</h4> 
   <b>Yizhen Lao</b>, Omar Ait-Aider  <br />
   IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2018 <br />
   [[pdf]]()  &nbsp; [[supplymental meterial]]()  &nbsp; [[video]]()
