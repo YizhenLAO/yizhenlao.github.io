@@ -31,7 +31,7 @@ Publication
 - <b>Robustified SfM with Rolling-Shutter Camera Using Straightness Constraint</b>   <br />
   <b>Yizhen Lao</b>, Omar Ait-Aider, Helder Araujo  <br />
   Pattern Recognition Letters (<b>PRL</b>), 2018 <br />
-  [[Elsevier web]](http://authors.elsevier.com/sd/article/S0167865518301247)  &nbsp; [[pdf]]()  &nbsp; [[supplymental meterial]]()
+  [[Elsevier web]](https://www.sciencedirect.com/science/article/pii/S0167865518301247)  &nbsp; [[pdf]]()  &nbsp; [[supplymental meterial]]()
   
     
 
