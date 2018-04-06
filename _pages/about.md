@@ -27,7 +27,7 @@ Publication
 
     [[pdf]]() [[supplymental meterial]]() [[video]]()  
 
--   Y. Lao, O. Ait-Aider and H. Araujo. Robustified SfM with Rolling-Shutter Camera Using Straightness Constraint, in Pattern Recognition Letters, 2018  \n
+-   Y. Lao, O. Ait-Aider and H. Araujo. Robustified SfM with Rolling-Shutter Camera Using Straightness Constraint, in Pattern Recognition Letters, 2018  <br />
    [[Elsevier web]]() [[pdf]]() [[supplymental meterial]]() 
 
 
