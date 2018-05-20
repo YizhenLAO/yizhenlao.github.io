@@ -26,7 +26,7 @@ Publication
 -  <b>A Robust Method for Strong Rolling Shutter Effects Correction Using Lines with Automatic Feature Selection</b><br />
   <b>Yizhen Lao</b>, Omar Ait-Aider  <br /> 
   IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2018 <br />
-  [[pdf]]()  &nbsp; [[supplymental meterial]]()  &nbsp; [[video]]()
+  [[pdf]](/files/3871_final.pdf)  &nbsp; [[supplymental meterial]](/files/3871_supp_final.pdf))  &nbsp; [[video]]()
   
 - <b>Robustified SfM with Rolling-Shutter Camera Using Straightness Constraint</b>   <br />
   <b>Yizhen Lao</b>, Omar Ait-Aider, Helder Araujo  <br />
