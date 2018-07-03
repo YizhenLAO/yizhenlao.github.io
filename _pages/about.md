@@ -17,8 +17,7 @@ Previously I obtained my Master's degree in Geo-information Science and Earth Ob
 
 News 
 ========
-- [02/04/2018] One paper accepted at Pattern Recognition Letters (PRL).  
-- [19/02/2018] One paper accepted at CVPR 2018. 
+- [03/05/2018] One paper accepted by ECCV 2018!
 
 
 Publication  
