@@ -17,7 +17,7 @@ Previously I obtained my Master's degree in Geo-information Science and Earth Ob
 
 News 
 ========
-- [03/05/2018] One paper accepted by ECCV 2018!
+- [04/07/2018] One paper accepted by ECCV 2018!
 
 
 Publication  
@@ -25,7 +25,7 @@ Publication
 -  <b>Rolling Shutter Pose and Ego-motion Estimation using Shape-from-Template</b><br />
   <b>Yizhen Lao</b>, Omar Ait-Aider, and Adrien Bartoli <br />
   European Conference on Computer Vision (<b>ECCV</b>), 2018 <br />
-  [[pdf]]()  &nbsp; [[video]]()
+  [[pdf] comming soon]()  &nbsp; [[video] comming soon]()
 
 -  <b>A Robust Method for Strong Rolling Shutter Effects Correction Using Lines with Automatic Feature Selection</b><br />
   <b>Yizhen Lao</b>, Omar Ait-Aider  <br /> 
