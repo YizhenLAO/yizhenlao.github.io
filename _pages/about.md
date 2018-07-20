@@ -22,13 +22,18 @@ News
 
 Publication  
 ========
+-  <b>Rolling Shutter Pose and Ego-motion Estimation using Shape-from-Template</b><br />
+  <b>Yizhen Lao</b>, Omar Ait-Aider, and Adrien Bartoli <br />
+  European Conference on Computer Vision (<b>ECCV</b>), 2018 <br />
+  [[pdf]]()  &nbsp; [[video]]()
+
 -  <b>A Robust Method for Strong Rolling Shutter Effects Correction Using Lines with Automatic Feature Selection</b><br />
   <b>Yizhen Lao</b>, Omar Ait-Aider  <br /> 
   IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2018 <br />
   [[pdf]](/files/3871_final.pdf)  &nbsp; [[supplymental meterial]](/files/3871_supp_final.pdf))  &nbsp; [[video]](https://youtu.be/aNnlblYHqB8)
   
 - <b>Robustified SfM with Rolling-Shutter Camera Using Straightness Constraint</b>   <br />
-  <b>Yizhen Lao</b>, Omar Ait-Aider, Helder Araujo  <br />
+  <b>Yizhen Lao</b>, Omar Ait-Aider, and Helder Araujo  <br />
   Pattern Recognition Letters (<b>PRL</b>), 2018 <br />
   [[Elsevier web]](https://www.sciencedirect.com/science/article/pii/S0167865518301247)  &nbsp; [[pdf]]()  &nbsp; [[supplymental meterial]]()
   
