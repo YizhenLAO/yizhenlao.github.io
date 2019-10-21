@@ -29,7 +29,7 @@ Publication
 -  <b>Rolling Shutter Pose and Ego-motion Estimation using Shape-from-Template</b><br />
   <b>Yizhen Lao</b>, Omar Ait-Aider, and Adrien Bartoli <br />
   European Conference on Computer Vision (<b>ECCV</b>), 2018 <br />
-  [[pdf]](/files/2193.pdf)  &nbsp; [[video] comming soon]()
+  [[pdf]](/files/2193.pdf)  
 
 -  <b>A Robust Method for Strong Rolling Shutter Effects Correction Using Lines with Automatic Feature Selection</b><br />
   <b>Yizhen Lao</b>, Omar Ait-Aider  <br /> 
