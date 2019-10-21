@@ -21,6 +21,11 @@ News
 
 Publication  
 ========
+-  <b>3D Vision Geometry for Rolling Shutter Cameras</b><br />
+  <b>Yizhen Lao</b><br />
+  Ph.D. Thesis, 2019 <br />
+  [[pdf]](https://tel.archives-ouvertes.fr/tel-02276486/document) 
+
 -  <b>Rolling Shutter Pose and Ego-motion Estimation using Shape-from-Template</b><br />
   <b>Yizhen Lao</b>, Omar Ait-Aider, and Adrien Bartoli <br />
   European Conference on Computer Vision (<b>ECCV</b>), 2018 <br />
