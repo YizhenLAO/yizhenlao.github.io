@@ -16,11 +16,17 @@ I obtained my Ph.D. from [Université Clermont Auvergne](http://www.uca.fr/) aft
 
 News 
 ========
-- [16/05/2019] I defended my Ph.D. thesis :) 
+- [02/03/2020] One paper is accepted to T-PAMI! 
 
 
 Publication  
 ========
+-  <b>Rolling Shutter Homography and its Applications</b><br />
+  <b>Yizhen Lao</b>, Omar Ait-Aider  <br /> 
+  IEEE Transactions on Pattern Analysis and Machine Intelligence  (<b>(T-PAMI)</b>), 2020 <br />
+  [[IEEE web]](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4359286)  &nbsp; 
+
+
 -  <b>3D Vision Geometry for Rolling Shutter Cameras</b><br />
   <b>Yizhen Lao</b><br />
   Ph.D. Thesis, 2019 <br />
