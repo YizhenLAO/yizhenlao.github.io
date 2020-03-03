@@ -23,7 +23,7 @@ Publication
 ========
 -  <b>Rolling Shutter Homography and its Applications</b><br />
   <b>Yizhen Lao</b>, Omar Ait-Aider  <br /> 
-  IEEE Transactions on Pattern Analysis and Machine Intelligence  (<b>(T-PAMI)</b>), 2020 <br />
+  IEEE Transactions on Pattern Analysis and Machine Intelligence  (<b>T-PAMI</b>), 2020 <br />
   [[IEEE web]](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4359286)  &nbsp; 
 
 
