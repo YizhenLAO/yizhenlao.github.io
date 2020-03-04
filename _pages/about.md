@@ -24,7 +24,7 @@ Publication
 -  <b>Rolling Shutter Homography and its Applications</b><br />
   <b>Yizhen Lao</b>, Omar Ait-Aider  <br /> 
   IEEE Transactions on Pattern Analysis and Machine Intelligence  (<b>T-PAMI</b>), 2020 <br />
-  [[IEEE web]](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4359286)  &nbsp;  [[pdf]](/files/RSHomo_PAMI2020.pdf))&nbsp;  [[supplymental meterial]](/files/RS_homo_PAMI2020_supp_material.pdf))
+  [[IEEE web]](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4359286)  &nbsp;  [[pdf]](/files/RSHomo_PAMI2020.pdf)&nbsp;  [[supplymental meterial]](/files/RS_homo_PAMI2020_supp_material.pdf)
 
 
 -  <b>3D Vision Geometry for Rolling Shutter Cameras</b><br />
