@@ -26,7 +26,7 @@ Publication
 
 -  <b>Solving Rolling Shutter 3D Vision Problems using Analogies with Non-rigidity</b><br />
    <b>Yizhen Lao</b>, Omar Ait-Aider, and Adrien Bartoli <br /> 
-  International Journal of Computer Vision  (<b></b>), 2020 <br />
+  International Journal of Computer Vision  (<b>IJCV</b>), 2020 <br />
 
 -  <b>Rolling Shutter Homography and its Applications</b><br />
   <b>Yizhen Lao</b>, Omar Ait-Aider  <br /> 
