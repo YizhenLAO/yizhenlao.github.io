@@ -18,11 +18,16 @@ Previously I obtained my Master's degree in Geo-information Science and Earth Ob
 
 News 
 ========
-- [02/03/2020] One paper is accepted to T-PAMI! 
+- [07/08/2020] One paper is accepted to IJCV! 
 
 
 Publication  
 ========
+
+-  <b>Solving Rolling Shutter 3D Vision Problems using Analogies with Non-rigidity</b><br />
+   <b>Yizhen Lao</b>, Omar Ait-Aider, and Adrien Bartoli <br /> 
+  International Journal of Computer Vision  (<b></b>), 2020 <br />
+
 -  <b>Rolling Shutter Homography and its Applications</b><br />
   <b>Yizhen Lao</b>, Omar Ait-Aider  <br /> 
   IEEE Transactions on Pattern Analysis and Machine Intelligence  (<b>T-PAMI</b>), 2020 <br />
