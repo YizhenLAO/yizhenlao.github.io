@@ -18,11 +18,15 @@ Previously I obtained my Master's degree in Geo-information Science and Earth Ob
 
 News 
 ========
-- [07/08/2020] One paper is accepted to IJCV! 
+- [07/07/2021] One paper is accepted to ACM MM 2021! 
 
 
 Publication  
 ========
+-  <b>Augmenting TV Shows via Uncalibrated Camera Small Motion Tracking in Dynamic Scene</b><br />
+   <b>Yizhen Lao</b>,Jie Yang, Xinying Wang, Jianxin Lin, Yu Cao and Shien Song <br /> 
+  ACM Multimedia  (<b>ACM MM</b>), 2021 <br />
+  [[pdf, comming soon]]()
 
 -  <b>Solving Rolling Shutter 3D Vision Problems using Analogies with Non-rigidity</b><br />
    <b>Yizhen Lao</b>, Omar Ait-Aider, and Adrien Bartoli <br /> 
