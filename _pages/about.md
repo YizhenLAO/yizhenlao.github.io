@@ -24,7 +24,7 @@ News
 Publication  
 ========
 -  <b>Augmenting TV Shows via Uncalibrated Camera Small Motion Tracking in Dynamic Scene</b><br />
-   <b>Yizhen Lao</b>,Jie Yang, Xinying Wang, Jianxin Lin, Yu Cao and Shien Song <br /> 
+   <b>Yizhen Lao</b>, Jie Yang, Xinying Wang, Jianxin Lin, Yu Cao and Shien Song <br /> 
   ACM Multimedia  (<b>ACM MM</b>), 2021 <br />
   [[pdf, comming soon]]()
 
