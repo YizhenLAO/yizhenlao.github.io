@@ -26,7 +26,7 @@ Publication
 -  <b>Augmenting TV Shows via Uncalibrated Camera Small Motion Tracking in Dynamic Scene</b><br />
    <b>Yizhen Lao</b>, Jie Yang, Xinying Wang, Jianxin Lin, Yu Cao and Shien Song <br /> 
   ACM Multimedia  (<b>ACM MM</b>), 2021 <br />
-  [[pdf, comming soon]]()
+  [[pdf]](/files/mfp2005.pdf)
 
 -  <b>Solving Rolling Shutter 3D Vision Problems using Analogies with Non-rigidity</b><br />
    <b>Yizhen Lao</b>, Omar Ait-Aider, and Adrien Bartoli <br /> 
