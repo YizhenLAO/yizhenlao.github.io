@@ -10,7 +10,7 @@ redirect_from:
 
 About me
 ========
-I am an Associate Professor at the the [College of Computer Science and Electronic Engineering](http://csee.hnu.edu.cn/home.htm), [Hunan University](http://www-en.hnu.edu.cn/). 
+I am an Associate Professor at the [College of Computer Science and Electronic Engineering](http://csee.hnu.edu.cn/home.htm), [Hunan University](http://www-en.hnu.edu.cn/). 
 
 I was a postdoctoral researcher at [ComSee](http://www.institutpascal.uca.fr/index.php/fr/comsee) group, [ISPR](https://ispr-ip.fr/) department of [Institut Pascal](http://www.institutpascal.uca.fr/index.php/fr/), UMR 6602 - [CNRS](https://www.cnrs.fr/).  Beofre that, I obtained my Ph.D. from [Université Clermont Auvergne](http://www.uca.fr/) after spending three wonderful years at Clermont-FD, where I was advised by Dr. Omar Ait-Aider and Prof. Helder Araújo. 
 
