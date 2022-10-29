@@ -23,10 +23,15 @@ News
 
 Publication  
 ========
+-  <b>FEC: Fast Euclidean Clustering for Point Cloud Segmentation</b><br />
+   Yu Cao, Yancheng Wang, Yifei Xue, Huiqing Zhang and <b>Yizhen Lao*</b> <br /> 
+   Drones, 2022 <br />
+   [[pdf]] (https://www.mdpi.com/2504-446X/6/11/325/pdf?version=1666876162)  &nbsp;  
+
 -  <b>Augmenting TV Shows via Uncalibrated Camera Small Motion Tracking in Dynamic Scene</b><br />
    <b>Yizhen Lao</b>, Jie Yang, Xinying Wang, Jianxin Lin, Yu Cao and Shien Song <br /> 
   ACM Multimedia  (<b>ACM MM</b>), 2021 <br />
-  [[pdf]](/files/mfp2005.pdf)
+  [[pdf]](/files/mfp2005.pdf)  &nbsp; [[IEEE web]] (https://github.com/YizhenLAO/FEC)
 
 -  <b>Solving Rolling Shutter 3D Vision Problems using Analogies with Non-rigidity</b><br />
    <b>Yizhen Lao</b>, Omar Ait-Aider, and Adrien Bartoli <br /> 
