@@ -36,12 +36,12 @@ Notes: Joint first authors are indicated using # and corresponding authors are i
   [[pdf]](/files/mfp2005.pdf) 
 
 -  <b>Solving Rolling Shutter 3D Vision Problems using Analogies with Non-rigidity</b><br />
-   <b>Yizhen Lao</b>, Omar Ait-Aider, and Adrien Bartoli <br /> 
+   <b>Yizhen Lao*</b>, Omar Ait-Aider, and Adrien Bartoli <br /> 
   International Journal of Computer Vision  (<b>IJCV</b>), 2020 <br />
   [[Springer web]](https://link.springer.com/article/10.1007/s11263-020-01368-1)  &nbsp;  [[pdf]](/files/Lao_et_al-2020-International_Journal_of_Computer_Vision.pdf)
 
 -  <b>Rolling Shutter Homography and its Applications</b><br />
-  <b>Yizhen Lao</b>, Omar Ait-Aider  <br /> 
+  <b>Yizhen Lao*</b>, Omar Ait-Aider  <br /> 
   IEEE Transactions on Pattern Analysis and Machine Intelligence  (<b>T-PAMI</b>), 2020 <br />
   [[IEEE web]](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4359286)  &nbsp;  [[pdf]](/files/RSHomo_PAMI2020.pdf)&nbsp;  [[supplymental meterial]](/files/RS_homo_PAMI2020_supp_material.pdf)
 
@@ -52,17 +52,17 @@ Notes: Joint first authors are indicated using # and corresponding authors are i
   [[pdf]](https://tel.archives-ouvertes.fr/tel-02276486/document) 
 
 -  <b>Rolling Shutter Pose and Ego-motion Estimation using Shape-from-Template</b><br />
-  <b>Yizhen Lao</b>, Omar Ait-Aider, and Adrien Bartoli <br />
+  <b>Yizhen Lao*</b>, Omar Ait-Aider, and Adrien Bartoli <br />
   European Conference on Computer Vision (<b>ECCV</b>), 2018 <br />
   [[pdf]](/files/2193.pdf)  
 
 -  <b>A Robust Method for Strong Rolling Shutter Effects Correction Using Lines with Automatic Feature Selection</b><br />
-  <b>Yizhen Lao</b>, Omar Ait-Aider  <br /> 
+  <b>Yizhen Lao*</b>, Omar Ait-Aider  <br /> 
   IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2018 <br />
   [[pdf]](/files/3871_final.pdf)  &nbsp; [[supplymental meterial]](/files/3871_supp_final.pdf)  &nbsp; [[video]](https://youtu.be/aNnlblYHqB8)
   
 - <b>Robustified SfM with Rolling-Shutter Camera Using Straightness Constraint</b>   <br />
-  <b>Yizhen Lao</b>, Omar Ait-Aider, and Helder Araujo  <br />
+  <b>Yizhen Lao*</b>, Omar Ait-Aider, and Helder Araujo  <br />
   Pattern Recognition Letters (<b>PRL</b>), 2018 <br />
   [[Elsevier web]](https://www.sciencedirect.com/science/article/pii/S0167865518301247)  &nbsp; [[pdf]]()  &nbsp; [[supplymental meterial]]()
   
