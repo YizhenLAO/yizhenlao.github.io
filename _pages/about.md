@@ -21,8 +21,10 @@ News
 - [07/07/2021] One paper is accepted to ACM MM 2021! 
 
 
-Publication  
+Publication 
 ========
+Notes: Joint first authors are indicated using # and corresponding authors are indicated using *
+
 -  <b>FEC: Fast Euclidean Clustering for Point Cloud Segmentation</b><br />
    Yu Cao, Yancheng Wang, Yifei Xue, Huiqing Zhang and <b>Yizhen Lao*</b> <br /> 
    Drones, 2022 <br />
