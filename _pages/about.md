@@ -18,12 +18,23 @@ Previously I obtained my Master's degree in Geo-information Science and Earth Ob
 
 News 
 ========
-- [07/07/2021] One paper is accepted to ACM MM 2021! 
+- [7/03/2023] One paper is accepted to CVPR 2023! 
+- [14/03/2023] One paper is accepted to ICME 2023! 
 
 
 Publication 
 ========
 Notes: Joint first authors are indicated using # and corresponding authors are indicated using *
+
+-  <b>Revisiting Rolling Shutter Bundle Adjustment: Toward Accurate and Fast Solution</b><br />
+   Bangyan Liao, Delin Qu#, Yifei Xue, Huiqing Zhang and <b>Yizhen Lao*</b> <br /> 
+   IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2023  <br />
+   [[pdf]](https://arxiv.org/abs/2209.08503)  &nbsp;  [[code](comming soon)](https://yizhenlao.github.io/)
+
+-  <b>DFR: Depth from Rotation by Uncalibrated Image Rectification with Latitudinal Motion Assumption</b><br />
+   Yongcon Zhang, Yifei Xue#, Ming Liao, Huiqing Zhang and <b>Yizhen Lao*</b> <br /> 
+   IEEE International Conference on Multimedia and Expo (<b>ICME</b>), 2023  <br />
+   [[pdf] (comming soon)](https://yizhenlao.github.io/)  &nbsp;  [[code](comming soon)](https://yizhenlao.github.io/)
 
 -  <b>FEC: Fast Euclidean Clustering for Point Cloud Segmentation</b><br />
    Yu Cao, Yancheng Wang#, Yifei Xue, Huiqing Zhang and <b>Yizhen Lao*</b> <br /> 
