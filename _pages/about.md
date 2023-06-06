@@ -18,13 +18,17 @@ Previously I obtained my Master's degree in Geo-information Science and Earth Ob
 
 News 
 ========
-- [7/03/2023] One paper is accepted to CVPR 2023! 
-- [14/03/2023] One paper is accepted to ICME 2023! 
+- [06/06/2023] One paper is accepted to T-PAMI! 
 
 
 Publication 
 ========
 Notes: Joint first authors are indicated using # and corresponding authors are indicated using *
+
+-  <b>Fast Rolling Shutter Correction in the Wild</b><br />
+   Delin Qu, Bangyan Liao#, Huiqing Zhang, Omar Ait-Aider and <b>Yizhen Lao*</b> <br /> 
+   IEEE Transactions on Pattern Analysis and Machine Intelligence  (<b>T-PAMI</b>), 2023 <br />
+   [[pdf](Comming soon)](https://yizhenlao.github.io/)  &nbsp;  [[code](comming soon)](https://yizhenlao.github.io/)
 
 -  <b>Revisiting Rolling Shutter Bundle Adjustment: Toward Accurate and Fast Solution</b><br />
    Bangyan Liao, Delin Qu#, Yifei Xue, Huiqing Zhang and <b>Yizhen Lao*</b> <br /> 
