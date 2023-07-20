@@ -27,7 +27,7 @@ Notes: Joint first authors are indicated using # and corresponding authors are i
 
 -  <b>Towards Nonlinear-Motion-Aware and Occlusion-Robust Rolling Shutter Correction</b><br />
    Delin Qu, <b>Yizhen Lao#</b>, Dong Wang, Zhigang Wang, Xuelong Li and Bin Zhao*<br /> 
-   (<b>ICCV</b>), 2023 <br />
+   <b>ICCV</b>, 2023 <br />
    [[pdf]](https://arxiv.org/abs/2303.18125)  &nbsp;  [[code](comming soon)](https://yizhenlao.github.io/)
 
 -  <b>Fast Rolling Shutter Correction in the Wild</b><br />
