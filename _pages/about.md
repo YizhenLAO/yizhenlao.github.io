@@ -28,17 +28,17 @@ Notes: Joint first authors are indicated using # and corresponding authors are i
 -  <b>Fast Rolling Shutter Correction in the Wild</b><br />
    Delin Qu, Bangyan Liao#, Huiqing Zhang, Omar Ait-Aider and <b>Yizhen Lao*</b> <br /> 
    IEEE Transactions on Pattern Analysis and Machine Intelligence  (<b>T-PAMI</b>), 2023 <br />
-   [[pdf](Comming soon)](https://yizhenlao.github.io/)  &nbsp;  [[code](comming soon)](https://yizhenlao.github.io/)
+   [[pdf]](https://ieeexplore.ieee.org/document/10148802)  &nbsp;  [[code](comming soon)](https://yizhenlao.github.io/)
 
 -  <b>Revisiting Rolling Shutter Bundle Adjustment: Toward Accurate and Fast Solution</b><br />
    Bangyan Liao, Delin Qu#, Yifei Xue, Huiqing Zhang and <b>Yizhen Lao*</b> <br /> 
    IEEE Conference on Computer Vision and Pattern Recognition (<b>CVPR</b>), 2023  <br />
-   [[pdf]](https://arxiv.org/abs/2209.08503)  &nbsp;  [[code](comming soon)](https://yizhenlao.github.io/)
+   [[pdf]](https://arxiv.org/abs/2209.08503)  &nbsp;  [[Code]](https://delinqu.github.io/NW-RSBA/)
 
 -  <b>DFR: Depth from Rotation by Uncalibrated Image Rectification with Latitudinal Motion Assumption</b><br />
    Yongcon Zhang, Yifei Xue#, Ming Liao, Huiqing Zhang and <b>Yizhen Lao*</b> <br /> 
    IEEE International Conference on Multimedia and Expo (<b>ICME</b>), 2023  <br />
-   [[pdf] (comming soon)](https://yizhenlao.github.io/)  &nbsp;  [[code](comming soon)](https://yizhenlao.github.io/)
+   [[pdf]](https://arxiv.org/pdf/2307.05129.pdf)  &nbsp;  [[code](comming soon)](https://yizhenlao.github.io/)
 
 -  <b>FEC: Fast Euclidean Clustering for Point Cloud Segmentation</b><br />
    Yu Cao, Yancheng Wang#, Yifei Xue, Huiqing Zhang and <b>Yizhen Lao*</b> <br /> 
