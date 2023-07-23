@@ -33,7 +33,7 @@ Notes: Joint first authors are indicated using # and corresponding authors are i
 -  <b>Fast Rolling Shutter Correction in the Wild</b><br />
    Delin Qu, Bangyan Liao#, Huiqing Zhang, Omar Ait-Aider and <b>Yizhen Lao*</b> <br /> 
    IEEE Transactions on Pattern Analysis and Machine Intelligence  (<b>T-PAMI</b>), 2023 <br />
-   [[pdf]](https://ieeexplore.ieee.org/document/10148802)  &nbsp;  [[code](comming soon)](https://yizhenlao.github.io/)
+   [[pdf]](https://ieeexplore.ieee.org/document/10148802)  &nbsp;  [[code]](https://github.com/DelinQu/rspy/)
 
 -  <b>Revisiting Rolling Shutter Bundle Adjustment: Toward Accurate and Fast Solution</b><br />
    Bangyan Liao, Delin Qu#, Yifei Xue, Huiqing Zhang and <b>Yizhen Lao*</b> <br /> 
