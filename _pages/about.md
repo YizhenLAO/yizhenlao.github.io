@@ -18,7 +18,7 @@ Previously I obtained my Master's degree in Geo-information Science and Earth Ob
 
 News 
 ========
-- [06/07/2023] One paper is accepted to ECCV 2024! 
+- [06/07/2024] One paper is accepted to ECCV 2024! 
 
 
 Publication 
