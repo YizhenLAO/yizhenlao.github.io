@@ -27,7 +27,7 @@ Notes: Joint first authors are indicated using # and corresponding authors are i
 
 -  <b>RSL-BA: Rolling Shutter Line Bundle Adjustment</b><br />
    Yongcon Zhang, Bangyan Liao#, Yifei Xue, Lu Chen, Peidong Liu and <b>Yizhen Lao*</b> <br /> 
-   European Conference on Computer Vision (<b>ICCV</b>), 2024 <br />
+   European Conference on Computer Vision (<b>ECCV</b>), 2024 <br />
    [[pdf] Comming soon](https://arxiv.org/abs/2303.18125)  &nbsp;  [[code] Comming soon](https://github.com/DelinQu/rspy/)
 
 -  <b>Towards Nonlinear-Motion-Aware and Occlusion-Robust Rolling Shutter Correction</b><br />
