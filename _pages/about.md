@@ -18,12 +18,17 @@ Previously I obtained my Master's degree in Geo-information Science and Earth Ob
 
 News 
 ========
-- [06/06/2023] One paper is accepted to ICCV 2023! 
+- [06/07/2023] One paper is accepted to ECCV 2024! 
 
 
 Publication 
 ========
 Notes: Joint first authors are indicated using # and corresponding authors are indicated using *
+
+-  <b>RSL-BA: Rolling Shutter Line Bundle Adjustment</b><br />
+   Yongcon Zhang, Bangyan Liao#, Yifei Xue, Lu Chen, Peidong Liu and <b>Yizhen Lao*</b> <br /> 
+   European Conference on Computer Vision (<b>ICCV</b>), 2024 <br />
+   [[pdf] Comming soon](https://arxiv.org/abs/2303.18125)  &nbsp;  [[code] Comming soon](https://github.com/DelinQu/rspy/)
 
 -  <b>Towards Nonlinear-Motion-Aware and Occlusion-Robust Rolling Shutter Correction</b><br />
    Delin Qu, <b>Yizhen Lao#</b>, Dong Wang, Zhigang Wang, Xuelong Li and Bin Zhao*<br /> 
