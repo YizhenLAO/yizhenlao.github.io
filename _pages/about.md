@@ -25,10 +25,15 @@ Publication
 ========
 Notes: Joint first authors are indicated using # and corresponding authors are indicated using *
 
+-  <b>Ego-motion Estimation for Vehicles with a Rolling Shutter Camera</b><br />
+   Yongcong Zhang, Bangyan Liao, Delin Qu, Junde Wu, Xinyu Lu, Wanting Li, Yifei Xue, and <b>Yizhen Lao*</b> <br /> 
+   IEEE Transactions on Intelligent Vehicles (<b>T-IV</b>), 2024 <br />
+   [[pdf]](https://ieeexplore.ieee.org/abstract/document/10620617)  &nbsp;  [[code] Comming soon](https://github.com/DelinQu/rspy/)
+
 -  <b>RSL-BA: Rolling Shutter Line Bundle Adjustment</b><br />
    Yongcon Zhang, Bangyan Liao#, Yifei Xue, Lu Chen, Peidong Liu and <b>Yizhen Lao*</b> <br /> 
    European Conference on Computer Vision (<b>ECCV</b>), 2024 <br />
-   [[pdf] Comming soon](https://arxiv.org/abs/2303.18125)  &nbsp;  [[code] Comming soon](https://github.com/DelinQu/rspy/)
+   [[pdf]](https://arxiv.org/abs/2303.18125)  &nbsp;  [[code] Comming soon](https://github.com/DelinQu/rspy/)
 
 -  <b>Towards Nonlinear-Motion-Aware and Occlusion-Robust Rolling Shutter Correction</b><br />
    Delin Qu, <b>Yizhen Lao#</b>, Dong Wang, Zhigang Wang, Xuelong Li and Bin Zhao*<br /> 
