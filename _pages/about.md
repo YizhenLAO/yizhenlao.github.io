@@ -25,6 +25,11 @@ Publication
 ========
 Notes: Joint first authors are indicated using # and corresponding authors are indicated using *
 
+-  <b>IOVS4NeRF: Incremental Optimal View Selection for Large-Scale NeRFs</b><br />
+   Jingpeng Xie, Shiyu Tan, Yuanlei Wang, Tianle Du, Yifei Xue, and <b>Yizhen Lao*</b> <br /> 
+   International Conference on Acoustics, Speech, and Signal Processing (<b>ICASSP</b>), 2025 <br />
+   [[pdf]](https://arxiv.org/pdf/2407.18611)  &nbsp;  [[code] Comming soon]()
+
 -  <b>Ego-motion Estimation for Vehicles with a Rolling Shutter Camera</b><br />
    Yongcong Zhang, Bangyan Liao, Delin Qu, Junde Wu, Xinyu Lu, Wanting Li, Yifei Xue, and <b>Yizhen Lao*</b> <br /> 
    IEEE Transactions on Intelligent Vehicles (<b>T-IV</b>), 2024 <br />
