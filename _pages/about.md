@@ -25,6 +25,11 @@ Publication
 ========
 Notes: Joint first authors are indicated using # and corresponding authors are indicated using *
 
+-  <b>Predicting rare drug-drug interaction events with dual-granular structure-adaptive and pair variational representation</b><br />
+   Zhonghao Ren, Xiangxiang Zeng, <b>Yizhen Lao</b>, Zhuhong You, Yifan Shang, Quan Zou, and Chen Lin <br /> 
+   <b>Nature Communications</b>, 2025 <br />
+   [[pdf]](https://www.nature.com/articles/s41467-025-59431-9)  &nbsp; 
+
 -  <b>IOVS4NeRF: Incremental Optimal View Selection for Large-Scale NeRFs</b><br />
    Jingpeng Xie, Shiyu Tan, Yuanlei Wang, Tianle Du, Yifei Xue, and <b>Yizhen Lao*</b> <br /> 
    International Conference on Acoustics, Speech, and Signal Processing (<b>ICASSP</b>), 2025 <br />
