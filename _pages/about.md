@@ -28,12 +28,17 @@ Notes: Joint first authors are indicated using # and corresponding authors are i
 -  <b>Predicting rare drug-drug interaction events with dual-granular structure-adaptive and pair variational representation</b><br />
    Zhonghao Ren, Xiangxiang Zeng, <b>Yizhen Lao</b>, Zhuhong You, Yifan Shang, Quan Zou, and Chen Lin <br /> 
    <b>Nature Communications</b>, 2025 <br />
-   [[pdf]](https://www.nature.com/articles/s41467-025-59431-9)  &nbsp; 
+   [[pdf]](https://www.nature.com/articles/s41467-025-59431-9)  &nbsp; [[code]](https://github.com/MrPhil/RareDDIE) 
 
 -  <b>IOVS4NeRF: Incremental Optimal View Selection for Large-Scale NeRFs</b><br />
    Jingpeng Xie, Shiyu Tan, Yuanlei Wang, Tianle Du, Yifei Xue, and <b>Yizhen Lao*</b> <br /> 
    International Conference on Acoustics, Speech, and Signal Processing (<b>ICASSP</b>), 2025 <br />
    [[pdf]](https://arxiv.org/pdf/2407.18611)  &nbsp;  [[code] Comming soon]()
+
+-  <b>A spatial hierarchical network learning framework for drug repositioning allowing interpretation from macro to micro scale</b><br />
+   Zhonghao Ren, Xiangxiang Zeng, <b>Yizhen Lao</b>, Heping Zheng, Zhuhong You, Hongxin Xiang, and Quan Zou <br /> 
+   <b> Communications Biology </b>, 2025 <br />
+   [[pdf]](https://www.nature.com/articles/s42003-024-07107-3)  &nbsp; [[code]](https://github.com/MrPhil/SpHN-VDA)
 
 -  <b>Ego-motion Estimation for Vehicles with a Rolling Shutter Camera</b><br />
    Yongcong Zhang, Bangyan Liao, Delin Qu, Junde Wu, Xinyu Lu, Wanting Li, Yifei Xue, and <b>Yizhen Lao*</b> <br /> 
@@ -43,7 +48,7 @@ Notes: Joint first authors are indicated using # and corresponding authors are i
 -  <b>RSL-BA: Rolling Shutter Line Bundle Adjustment</b><br />
    Yongcon Zhang, Bangyan Liao#, Yifei Xue, Lu Chen, Peidong Liu and <b>Yizhen Lao*</b> <br /> 
    European Conference on Computer Vision (<b>ECCV</b>), 2024 <br />
-   [[pdf]](https://arxiv.org/abs/2303.18125)  &nbsp;  [[code] Comming soon](https://github.com/DelinQu/rspy/)
+   [[pdf]](https://arxiv.org/abs/2303.18125)  &nbsp;   [[code]](https://github.com/zhangtaxue/RSL-BA)
 
 -  <b>Towards Nonlinear-Motion-Aware and Occlusion-Robust Rolling Shutter Correction</b><br />
    Delin Qu, <b>Yizhen Lao#</b>, Dong Wang, Zhigang Wang, Xuelong Li and Bin Zhao*<br /> 
