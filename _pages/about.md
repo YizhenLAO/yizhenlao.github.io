@@ -18,12 +18,17 @@ Previously I obtained my Master's degree in Geo-information Science and Earth Ob
 
 News 
 ========
-- [06/07/2024] One paper is accepted to ECCV 2024! 
+- [26/06/2025] One paper is accepted to ICCV 2025! 
 
 
 Publication 
 ========
 Notes: Joint first authors are indicated using # and corresponding authors are indicated using *
+
+-  <b>Faster and Better 3D Splatting via Group Training</b><br />
+   Chengbo wang, Guozheng Ma, Yifei Xue, and <b>Yizhen Lao*</b> <br /> 
+   International Conference on Computer Vision (<b>ICCV</b>), 2025 <br />
+   [[pdf]](https://arxiv.org/pdf/2412.07608)  &nbsp;   [[code, Comming soon]](https://github.com/zhangtaxue/RSL-BA)
 
 -  <b>Predicting rare drug-drug interaction events with dual-granular structure-adaptive and pair variational representation</b><br />
    Zhonghao Ren, Xiangxiang Zeng, <b>Yizhen Lao</b>, Zhuhong You, Yifan Shang, Quan Zou, and Chen Lin <br /> 
