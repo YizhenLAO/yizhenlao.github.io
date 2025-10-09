@@ -25,10 +25,15 @@ Publication
 ========
 Notes: Joint first authors are indicated using # and corresponding authors are indicated using *
 
+-  <b>DisorientLiDAR: Physical Attacks on LiDAR-based Localization</b><br />
+   <b>Yizhen Lao*</b>，Yu Zhang, Ziting Wang, Chengbo Wang, Yifei Xue, Tie Ji, Wanpeng Shao* <br /> 
+   Engineered Science, 2025 <br />
+   [[pdf]](https://arxiv.org/abs/2509.12595)  &nbsp;   [[code, Comming soon]]()
+
 -  <b>Faster and Better 3D Splatting via Group Training</b><br />
    Chengbo wang, Guozheng Ma, Yifei Xue, and <b>Yizhen Lao*</b> <br /> 
    International Conference on Computer Vision (<b>ICCV</b>), 2025 <br />
-   [[pdf]](https://arxiv.org/pdf/2412.07608)  &nbsp;   [[code, Comming soon]](https://github.com/zhangtaxue/RSL-BA)
+   [[pdf]](https://arxiv.org/pdf/2412.07608)  &nbsp;   [[code]](https://chengbo-wang.github.io/3DGS-with-Group-Training/)
 
 -  <b>Predicting rare drug-drug interaction events with dual-granular structure-adaptive and pair variational representation</b><br />
    Zhonghao Ren, Xiangxiang Zeng, <b>Yizhen Lao</b>, Zhuhong You, Yifan Shang, Quan Zou, and Chen Lin <br /> 
