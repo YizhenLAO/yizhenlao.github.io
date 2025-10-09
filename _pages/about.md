@@ -26,7 +26,7 @@ Publication
 Notes: Joint first authors are indicated using # and corresponding authors are indicated using *
 
 -  <b>DisorientLiDAR: Physical Attacks on LiDAR-based Localization</b><br />
-   <b>Yizhen Lao*</b>，Yu Zhang, Ziting Wang, Chengbo Wang, Yifei Xue, Tie Ji, Wanpeng Shao* <br /> 
+   <b>Yizhen Lao</b>，Yu Zhang, Ziting Wang, Chengbo Wang, Yifei Xue, Tie Ji, Wanpeng Shao* <br /> 
    Engineered Science, 2025 <br />
    [[pdf]](https://arxiv.org/abs/2509.12595)  &nbsp;   [[code, Comming soon]]()
 
