@@ -16,6 +16,8 @@ I was a postdoctoral researcher at [ComSee](http://www.institutpascal.uca.fr/ind
 
 Previously I obtained my Master's degree in Geo-information Science and Earth Observation from [Faculty ITC](https://www.itc.nl/), [University of Twente](https://www.utwente.nl/en/), Netherlands and Bachelor's degree in Spatial-Informatics & Digitalized Technology from [Wuhan University](http://en.whu.edu.cn/), China.   
 
+<p style="color: red;">I am looking for prospective PhD students, Postdocs, Research Interns (on-site), and Visiting Students. Please feel free to contact me. </p>
+
 News 
 ========
 - [26/06/2025] One paper is accepted to ICCV 2025! 
