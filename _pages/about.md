@@ -29,7 +29,7 @@ Notes: Joint first authors are indicated using # and corresponding authors are i
 
 -  <b>ACM Multimedia 2025 Grand Challenge report for Image-to-Video Generation Model Acceleration</b><br />
   Jie Yang, Shien Song, Jin Chen, Haoyuan Xie, Han Qi, Yifei Xue, <b>Yizhen Lao*</b> <br /> 
-   ACM International Conference on Multimedia (<b>MM</b>), 2025 <br />
+   ACM International Conference on Multimedia (<b>ACM MM</b>), 2025 <br />
    [[pdf]](/files/3746027.3761991.pdf)  &nbsp;  
 
 -  <b>复杂玻璃环境下地面激光雷达点云去噪方法</b><br />
