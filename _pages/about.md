@@ -25,10 +25,15 @@ Publication
 ========
 Notes: Joint first authors are indicated using # and corresponding authors are indicated using *
 
+-  <b>BirdNeRF: Fast neural reconstruction of large-scale scenes from aerial imagery</b><br />
+  Huiqing Zhang,Yifei Xue, Ming Liao, <b>Yizhen Lao*</b> <br /> 
+   Scientific Reports, 2025 <br />
+   [[pdf]](https://www.nature.com/articles/s41598-025-21206-z)  &nbsp;  
+
 -  <b>DisorientLiDAR: Physical Attacks on LiDAR-based Localization</b><br />
    <b>Yizhen Lao</b>，Yu Zhang, Ziting Wang, Chengbo Wang, Yifei Xue, Tie Ji, Wanpeng Shao* <br /> 
    Engineered Science, 2025 <br />
-   [[pdf]](https://arxiv.org/abs/2509.12595)  &nbsp;   [[code, Comming soon]]()
+   [[pdf]](https://arxiv.org/abs/2509.12595)  &nbsp;   
 
 -  <b>Faster and Better 3D Splatting via Group Training</b><br />
    Chengbo wang, Guozheng Ma, Yifei Xue, and <b>Yizhen Lao*</b> <br /> 
@@ -99,7 +104,6 @@ Notes: Joint first authors are indicated using # and corresponding authors are i
   <b>Yizhen Lao*</b>, Omar Ait-Aider  <br /> 
   IEEE Transactions on Pattern Analysis and Machine Intelligence  (<b>T-PAMI</b>), 2020 <br />
   [[IEEE web]](https://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4359286)  &nbsp;  [[pdf]](/files/RSHomo_PAMI2020.pdf)&nbsp;  [[supplymental meterial]](/files/RS_homo_PAMI2020_supp_material.pdf)
-
 
 -  <b>3D Vision Geometry for Rolling Shutter Cameras</b><br />
   <b>Yizhen Lao</b><br />
