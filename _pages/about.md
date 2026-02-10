@@ -27,6 +27,11 @@ Publication
 ========
 Notes: Joint first authors are indicated using # and corresponding authors are indicated using *
 
+-  <b>GRASS: Glass Reflection Artifact Suppression Strategy via Virtual Point Removal in LiDAR Point Clouds</b><br />
+  Wanpeng Shao,  Yu Zhang, Yifei Xue, Tie Ji, <b>Yizhen Lao*</b> <br /> 
+   Remote Sensing (<b>RS</b>), 2026 <br />
+   [[pdf]](https://www.mdpi.com/2072-4292/18/2/332)  &nbsp;  
+
 -  <b>ACM Multimedia 2025 Grand Challenge report for Image-to-Video Generation Model Acceleration</b><br />
   Jie Yang, Shien Song, Jin Chen, Haoyuan Xie, Han Qi, Yifei Xue, <b>Yizhen Lao*</b> <br /> 
    ACM International Conference on Multimedia (<b>ACM MM</b>), 2025 <br />
