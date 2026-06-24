@@ -27,6 +27,11 @@ Publication
 ========
 Notes: Joint first authors are indicated using # and corresponding authors are indicated using *
 
+-  <b>Deep Image Stitching for Unmanned Aerial Vehicles</b><br />
+   JiaGang Song，<b>Yizhen Lao*</b>，Lingfeng He，Jian Zhang， Shichao Zhang <br /> 
+   Engineered Science, 2026 <br />
+   [[pdf]](https://www.espublisher.com/journals/articledetails/2164)  &nbsp;   
+
 -  <b>GRASS: Glass Reflection Artifact Suppression Strategy via Virtual Point Removal in LiDAR Point Clouds</b><br />
   Wanpeng Shao,  Yu Zhang, Yifei Xue, Tie Ji, <b>Yizhen Lao*</b> <br /> 
    Remote Sensing (<b>RS</b>), 2026 <br />
