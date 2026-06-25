@@ -27,6 +27,11 @@ Publication
 ========
 Notes: Joint first authors are indicated using # and corresponding authors are indicated using *
 
+-  <b>Rolling Shutter Camera Self-Calibration</b><br />
+    Yongcong Zhang，Navid Rabbani, Bangyan Liao, Chengbo Wang, <b>Yizhen Lao</b>，Adrien Bartoli <br /> 
+   European Conference on Computer Vision (<b>ECCV</b>), 2026 <br />
+   [[pdf]](yizhenlao.github.io)  &nbsp;   
+
 -  <b>Deep Image Stitching for Unmanned Aerial Vehicles</b><br />
    JiaGang Song，<b>Yizhen Lao*</b>，Lingfeng He，Jian Zhang， Shichao Zhang <br /> 
    Engineered Science, 2026 <br />
